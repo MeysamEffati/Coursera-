@@ -1,4 +1,4 @@
-# Coursera-
+# Quick Sort-
 
 Programming Assignment #3
 
